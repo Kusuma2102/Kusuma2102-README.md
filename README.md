@@ -2,12 +2,17 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=Kusuma2102&style=flat-square)](https://github.com/Kusuma2102)
 
-A short bio about you.
+💫 About Me
+
+👋 Hi, I'm Kusuma Akana — a passionate Frontend Developer and UI/UX Designer with a keen eye for creating seamless and responsive digital experiences.
+🌱 Currently exploring Next.js, TypeScript, and automation workflows with n8n.
+💡 I love building projects that combine design, code, and real-world impact — from fintech websites to WhatsApp-driven automation systems.
+🚀 Always learning, experimenting, and open to collaborations on creative web projects.
 
 ## Connect
 [![Website](https://img.shields.io/badge/Website-mywebsite.com-1abc9c?style=for-the-badge&logo=google-chrome)](https://mywebsite.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-myportfolio.com-4a5cff?style=for-the-badge&logo=opera)](https://myportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Portfolio](https://kusuma2102.github.io/Kusuma.portfolio/)
+[![LinkedIn](https://www.linkedin.com/in/kusuma-akana-49a903250/)])
 [![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Email](https://img.shields.io/badge/Email-kusuma%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kusuma@example.com)
 
