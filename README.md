@@ -16,8 +16,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Email](https://img.shields.io/badge/Email-kusuma%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akanakusuma7@gmail.com)
 
-> Tip: Replace kusuma@example.com above with the email you want to share. If you are worried about spam, consider using a contact form or a throwaway address.
-
 ## GitHub Stats & Streak
 
 <!-- GitHub Readme Stats (by anuraghazra) -->
