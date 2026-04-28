@@ -14,7 +14,7 @@
 [![Portfolio](https://kusuma2102.github.io/Kusuma.portfolio/)
 [![LinkedIn](https://www.linkedin.com/in/kusuma-akana-49a903250/)])
 [![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-kusuma%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kusuma@example.com)
+[![Email](https://img.shields.io/badge/Email-kusuma%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akanakusuma7@gmail.com)
 
 > Tip: Replace kusuma@example.com above with the email you want to share. If you are worried about spam, consider using a contact form or a throwaway address.
 
